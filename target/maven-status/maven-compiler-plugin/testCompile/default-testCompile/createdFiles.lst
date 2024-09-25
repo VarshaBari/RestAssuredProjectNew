@@ -1,0 +1,13 @@
+apiAuth/BearerTokenExample.class
+apiChaining/ChainingExample.class
+restAPI/PutReuest.class
+restAPI/postRequest.class
+restAPI/GetRquestWithParameter.class
+restAPI/PostRequestWithMap.class
+restAPI/DeleteReuest.class
+RestAssuredProject/RestAssured/AppTest.class
+restAPI/GetRequest.class
+restAPIXml/XMLExample.class
+restAPI/PostRequestWithFile.class
+apiAuth/BasicAuthExample.class
+restAPI/GetRequestWithQueryParam.class
